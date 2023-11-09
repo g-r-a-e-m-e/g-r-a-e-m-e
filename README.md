@@ -1,16 +1,30 @@
-### Hi there 👋
+# hello world
 
-<!--
-**g-r-a-e-m-e/g-r-a-e-m-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+$ adduser graeme
+```
+## *i enjoy things*
 
-Here are some ideas to get you started:
+```py
+def what_things_do_you_enjoy():
+  thing_dict = {'Music': ['synthwave', 'punk', 'metal', 'folk'],
+                'Video Games': ['Cyberpunk 2077', 'The Witcher (series)', "Baldur's Gate 3"],
+                'Movies & Television': ['Blade Runner', 'The West Wing', 'Parks and Recreation']}
+  return thing_dict
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *i also do things*
+```js
+const things_i_do = "I am a data professional who is studying astrophysics and probably drinking too much coffee."
+```
+
+## *i love all animals, but cats rule*
+```sql
+SELECT
+  animal AS best_animal
+FROM
+  perfectly.curated.animal_database
+WHERE
+  LOWER(animal_type) = 'cat'
+  AND LOWER(demeanor) = 'cuddly'
+```
