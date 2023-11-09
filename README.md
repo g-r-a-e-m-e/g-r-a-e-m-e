@@ -15,7 +15,7 @@ def what_things_do_you_enjoy():
 
 ## *i also do things*
 ```js
-const things_i_do = "I am a data professional who is studying astrophysics and probably drinking too much coffee."
+const things_i_do = "I am a data professional, study astrophysics, and probably drink too much coffee."
 ```
 
 ## *i love all animals, but cats rule*
