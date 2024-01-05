@@ -7,10 +7,10 @@ $ adduser graeme
 
 ```py
 def what_things_do_you_enjoy():
-  thing_dict = {'Music': ['synthwave', 'punk', 'metal', 'folk'],
-                'Video Games': ['Cyberpunk 2077', 'The Witcher (series)', "Baldur's Gate 3"],
-                'Movies & Television': ['Blade Runner', 'The West Wing', 'Parks and Recreation']}
-  return thing_dict
+  things = {'Music': ['synthwave', 'punk', 'metal', 'folk'],
+            'Video Games': ['Cyberpunk 2077', 'The Witcher (series)', "Baldur's Gate 3"],
+            'Movies & Television': ['Blade Runner', 'The West Wing', 'Parks and Recreation']}
+  return things
 ```
 
 ## *i also do things*
