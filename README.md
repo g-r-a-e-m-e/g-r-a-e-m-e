@@ -9,22 +9,22 @@ $ adduser graeme
 ## *i enjoy things*
 
 ```py
-def what_things_do_you_enjoy():
+def things_i_enjoy():
   things = {'Music': ['synthwave', 'punk', 'metal', 'folk'],
             'Video Games': ['Cyberpunk 2077', 'The Witcher (series)', "Baldur's Gate 3"],
             'Movies & Television': ['Blade Runner', 'The West Wing', 'Parks and Recreation']}
   return things
 ```
 
-## *i also do things*
+## *i do things*
 ```js
-const things_i_do = "I am a data professional, study astrophysics, and probably drink too much coffee."
+const thingsIDo = "I am a data professional, study astrophysics, and probably drink too much coffee."
 ```
 
-## *i love all animals, but cats rule*
+## *i love cats*
 ```sql
 SELECT
-  animal AS best_animal
+  *
 FROM
   perfectly.curated.animal_database
 WHERE
