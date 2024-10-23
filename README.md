@@ -5,34 +5,3 @@
 
 | ![Stats](https://github-readme-stats-delta-sage-66.vercel.app/api?username=g-r-a-e-m-e&layout=compact&theme=synthwave&custom_title=my%20stats) | ![Top Languages](https://github-readme-stats-delta-sage-66.vercel.app/api/top-langs/?username=g-r-a-e-m-e&langs_count=10&size_weight=0.1&count_weight=0.1&hide_progress=true&layout=compact&theme=synthwave&custom_title=my%20languages) |
 |---|---|
-
-
-
-```
-$ adduser graeme
-```
-## *i enjoy things*
-
-```py
-def things_i_enjoy():
-  things = {'Music': ['synthwave', 'punk', 'metal', 'folk'],
-            'Video Games': ['Cyberpunk 2077', 'The Witcher (series)', "Baldur's Gate 3"],
-            'Movies & Television': ['Blade Runner', 'The West Wing', 'Parks and Recreation']}
-  return things
-```
-
-## *i do things*
-```js
-const thingsIDo = "I am a data professional, study astrophysics, and probably drink too much coffee."
-```
-
-## *i love cats*
-```sql
-SELECT
-  *
-FROM
-  perfectly.curated.animal_database
-WHERE
-  LOWER(animal_type) = 'cat'
-  AND LOWER(demeanor) = 'cuddly'
-```
